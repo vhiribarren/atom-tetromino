@@ -1,0 +1,18 @@
+{
+  "name": "atom-tetromino",
+  "main": "./lib/atom-tetromino",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-tetromino:toggle"
+  },
+  "repository": "https://github.com/atom/atom-tetromino",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
