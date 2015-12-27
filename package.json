@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-tetromino:toggle"
+    "atom-workspace": "tetromino:play"
   },
   "repository": "https://github.com/atom/atom-tetromino",
   "license": "MIT",
