@@ -1,6 +1,6 @@
 {
   "name": "atom-tetromino",
-  "main": "./lib/atom-tetromino",
+  "main": "./lib/tetromino",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "tetromino:play"
   },
-  "repository": "https://github.com/atom/atom-tetromino",
+  "repository": "https://github.com/vhiribarren/atom-tetromino",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
