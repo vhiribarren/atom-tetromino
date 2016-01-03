@@ -1,9 +1,10 @@
 {
-  "name": "atom-tetromino",
+  "name": "tetromino",
   "main": "./lib/tetromino",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Another falling block game to waste time on Atom",
   "keywords": [
+      "tetromino", "block", "falling blocks"
   ],
   "activationCommands": {
     "atom-workspace": "tetromino:play"
