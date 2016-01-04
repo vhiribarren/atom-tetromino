@@ -6,6 +6,8 @@ Remember the hidden tetromino game in Emacs using the `M-x tetris` command? I ju
 
 ![Screenshot1](materials/screenshot1.png)
 
+## Commands
+
 Open the game using the command palette `Tetromino: Play` or the `Tetromino` sub-menu in the `Packages` menu.
 
 The current commands to play the game are:
@@ -18,6 +20,21 @@ The current commands to play the game are:
 - `alt`: rotate block to left
 - `p`: pause
 
-Contributions and bug reports are welcome. Please keep in mind that the whole idea of the project is to have a minimalist implementation of the tetromino falling block game, so the game should not evolve too much. It is only for fun, like the Emacs tetromino game.
+## TODO
+
+- [ ] Display blocks in color
+- [ ] Display number of deleted lines
+- [ ] Display current level
+- [ ] Implement the pause button
+- [ ] Display a "game over" message
+- [ ] Button to choose start level
+- [ ] Button to immediately restart level
+- [ ] Implement a score formula and display score
+- [ ] Locally save best score
+- [ ] Choose in preferences if game must be in a split pane or not
+
+## Contributions
+
+Contributions and bug reports are welcome. Please keep in mind that the whole idea of the project is to have a minimalist implementation of the tetromino falling block game, so the game must not evolve too much. It is only for fun, like the Emacs tetromino game.
 
 [tetromino-wikipedia]: https://en.wikipedia.org/wiki/Tetromino
