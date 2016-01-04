@@ -1,6 +1,6 @@
 # Tetromino
 
-Another [tetromino](tetromino-wikipedia) falling block game implementation.
+Another [tetromino][tetromino-wikipedia] falling block game implementation.
 
 Remember the hidden tetromino game in Emacs using the `M-x tetris` command? I just wanted the same kind of useful tool with Atom.
 
