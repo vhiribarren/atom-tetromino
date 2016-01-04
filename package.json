@@ -1,7 +1,7 @@
 {
   "name": "tetromino",
   "main": "./lib/tetromino",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Vincent Hiribarren",
   "description": "Another falling block game to waste time on Atom",
   "keywords": [
