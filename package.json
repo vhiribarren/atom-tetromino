@@ -7,8 +7,10 @@
   "keywords": [
     "tetromino",
     "tetris",
+    "game",
+    "fun",
     "block",
-    "falling block"
+    "falling"
   ],
   "activationCommands": {
     "atom-workspace": "tetromino:play"
