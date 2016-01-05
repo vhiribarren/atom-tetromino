@@ -4,7 +4,7 @@ Another [tetromino][tetromino-wikipedia] falling block game implementation.
 
 Remember the hidden tetromino game in Emacs using the `M-x tetris` command? I just wanted the same kind of useful tool with Atom.
 
-![Screenshot1](https://raw.githubusercontent.com/vhiribarren/atom-tetromino/master/materials/screenshot1.png)
+![Screenshot1](https://raw.githubusercontent.com/vhiribarren/atom-tetromino/master/materials/screenshot1.jpg)
 
 ## Commands
 
