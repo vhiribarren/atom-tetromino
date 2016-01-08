@@ -12,14 +12,26 @@
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
+     transform-style: preserve-3d
 }
 
 .tetromino-game {
     order: 1;
+    padding: 5px;
 }
 
 .tetromino-menu {
     order: 2;
+    padding: 5px;
+    font-family: monospace;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 15px;
+}
+
+.tetromino-commands {
+    list-style: none;
+    padding: 0 10px;
 }
 
 .tetromino-title {
@@ -33,38 +45,48 @@
 .tetromino-canvas {
     display: block;
     font-family: monospace;
-    font-weight: bold;
-    font-size: large;
+    font-size: x-large;
     background-color: rgb(42, 42, 42);
     white-space: pre;
     margin: 1em 0;
+    line-height: 1.1em;
+    letter-spacing: 0.2em;
+    //transform-origin: left top;
+    //transform:scaleX(1.5);
 }
 
 .tetromino-border {
-    color: #BBB
+    color: #BBB;
 }
 
 .tetromino-shape-i {
     color: #FF0000;
+    font-weight: bold;
 }
 
 .tetromino-shape-o {
     color: #00FF00;
+    font-weight: bold;
 }
 
 .tetromino-shape-t {
     color: #0000FF;
+    font-weight: bold;
 }
 
 .tetromino-shape-l {
     color: #FF00FF;
+    font-weight: bold;
 }
 .tetromino-shape-j {
     color: #00FFFF;
+    font-weight: bold;
 }
 .tetromino-shape-s {
     color: #FFFF00;
+    font-weight: bold;
 }
 .tetromino-shape-z {
     color: #FFFFFF;
+    font-weight: bold;
 }
