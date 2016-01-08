@@ -1,6 +1,6 @@
 # Change Log
 
-## unreleased
+## 0.4.0 - 2016-01-09
 ### Added
 - Board now displayed differently
 - Lines and level status
