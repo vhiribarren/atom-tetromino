@@ -1,5 +1,10 @@
 # Change Log
 
+## unreleased
+### Added
+- Board now displayed differently
+- Lines and level status
+
 ## 0.3.0 - 2016-01-05
 ### Added
 - Tetrominos are now in color
