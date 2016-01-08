@@ -22,8 +22,6 @@ The current commands to play the game are:
 
 ## TODO
 
-- [ ] Display number of deleted lines
-- [ ] Display current level
 - [ ] Implement the pause button
 - [ ] Display a "game over" message
 - [ ] Button to choose start level
@@ -32,7 +30,6 @@ The current commands to play the game are:
 - [ ] Locally save best score
 - [ ] Choose in preferences if game must be in a split pane or not
 - [ ] Optimize some computations
-- [ ] Change display method which is currently quick and dirty and is only there for test (but still keep "character"-type display?)
 
 ## Contributions
 
