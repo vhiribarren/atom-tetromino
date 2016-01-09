@@ -22,7 +22,6 @@ The current commands to play the game are:
 
 ## TODO
 
-- [ ] Implement the pause button
 - [ ] Display a "game over" message
 - [ ] Button to choose start level
 - [ ] Button to immediately restart level

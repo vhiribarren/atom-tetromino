@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.5.0
+### Added
+- Pause button implemented
+
 ## 0.4.0 - 2016-01-09
 ### Added
 - Board now displayed differently
