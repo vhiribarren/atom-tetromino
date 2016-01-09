@@ -22,13 +22,12 @@ The current commands to play the game are:
 
 ## TODO
 
-- [ ] Display a "game over" message
-- [ ] Button to choose start level
-- [ ] Button to immediately restart level
-- [ ] Implement a score formula and display score
-- [ ] Locally save best score
-- [ ] Choose in preferences if game must be in a split pane or not
-- [ ] Optimize some computations
+- Display a "game over" message
+- Button to choose start level
+- Button to immediately restart level
+- Implement a score formula and display score
+- Locally save best score
+- Choose in preferences if game must be in a split pane or not
 
 ## Contributions
 
