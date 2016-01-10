@@ -1,5 +1,9 @@
 # Change Log
 
+## Unreleased
+### Added
+- Best score for lines is stored and displayed
+
 ## 0.5.0 - 2016-01-09
 ### Added
 - Pause button implemented
