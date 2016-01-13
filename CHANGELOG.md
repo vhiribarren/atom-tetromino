@@ -3,6 +3,7 @@
 ## Unreleased
 ### Added
 - Best score for lines is stored and displayed
+- Can be configured to not be opened in a right pane
 
 ## 0.5.0 - 2016-01-09
 ### Added

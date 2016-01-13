@@ -27,7 +27,6 @@ The current commands to play the game are:
 - Button to choose start level
 - Button to immediately restart level
 - Implement a score formula and display score
-- Choose in preferences if game must be in a split pane or not
 
 ## Contributions
 
