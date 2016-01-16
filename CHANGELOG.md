@@ -1,6 +1,6 @@
 # Change Log
 
-## Unreleased
+## 0.6.0 - 2016-01-16
 ### Added
 - Best score for lines is stored and displayed
 - Can be configured to not be opened in a right pane
