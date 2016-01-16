@@ -20,14 +20,6 @@ The current commands to play the game are:
 - `alt`: rotate block to left
 - `p`: pause
 
-## TODO
-
-- Display a "game over" message
-- Display next tetromino
-- Button to choose start level
-- Button to immediately restart level
-- Implement a score formula and display score
-
 ## Contributions
 
 Contributions and bug reports are welcome. Please keep in mind that the whole idea of the project is to have a minimalist implementation of the tetromino falling block game, so the game must not evolve too much. It is only for fun, like the Emacs tetromino game.
